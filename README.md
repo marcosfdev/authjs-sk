@@ -1,2 +1,2 @@
 # authjs-sk
-This repo
+This repo is a starter.
